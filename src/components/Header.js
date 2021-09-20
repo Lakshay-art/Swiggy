@@ -129,7 +129,7 @@ export default function Header() {
     <div className="headerflex">
       <div className="headerform">
         <nav className="logologinflex">
-          <img src="swiggy.png" alt="" width="30%" />
+          <img src="wiggy.png" alt="" width="30%" />
           <div>
             <Button
               click={ToggleSlider}
