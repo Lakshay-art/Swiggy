@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Swiggy/static/css/main.3d36359d.chunk.css",
-    "main.js": "/Swiggy/static/js/main.8744191b.chunk.js",
-    "main.js.map": "/Swiggy/static/js/main.8744191b.chunk.js.map",
+    "main.js": "/Swiggy/static/js/main.5457d92b.chunk.js",
+    "main.js.map": "/Swiggy/static/js/main.5457d92b.chunk.js.map",
     "runtime-main.js": "/Swiggy/static/js/runtime-main.e703b761.js",
     "runtime-main.js.map": "/Swiggy/static/js/runtime-main.e703b761.js.map",
     "static/js/2.053b3090.chunk.js": "/Swiggy/static/js/2.053b3090.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e703b761.js",
     "static/js/2.053b3090.chunk.js",
     "static/css/main.3d36359d.chunk.css",
-    "static/js/main.8744191b.chunk.js"
+    "static/js/main.5457d92b.chunk.js"
   ]
 }
